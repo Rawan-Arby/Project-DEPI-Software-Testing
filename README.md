@@ -4,17 +4,18 @@ This repository contains the final project for a software testing course. The pr
 
 ## 📁 Project Contents
 
-| File/Folder | Description |
-|-------------|-------------|
-| `Project_Description(me).pdf` | Overview and objectives of the testing project. |
-| `Test_Plan_Project(me).pdf` | Detailed testing strategy, scope, and schedule. |
-| `Test_Case_Final(shahd_gandy).xlsx` | Well-structured test cases based on scenarios. |
-| `Test_Sceanrio(shahd_ashraf).xlsx` | High-level test scenarios. |
-| `Bug_Report(shahd_ashraf).xlsx` | Logged defects found during testing. |
-| `SeleniumTest (1).zip` | Automated test scripts using Selenium. |
-| `Final Project Presentation - PrestaShop Testing-4.pptx` | Summary presentation of the entire project. |
-| `Team_Info.xlsx` | Information about the team members. |
-| `summary.csv` | Summary or tracking sheet of the testing activities. |
+| File/Folder                                              | Description                                                 |
+| -------------------------------------------------------- | ----------------------------------------------------------- |
+| `Project_Description.pdf`                                | Overview and main objectives of the testing project.        |
+| `Test_Plan_Project.pdf`                                  | Strategic test planning, scope, and approach documentation. |
+| `Test_Case_Final.xlsx`                                   | Collection of detailed test cases mapped from scenarios.    |
+| `Test_Scenario.xlsx`                                     | Broad testing scenarios that guide the test case creation.  |
+| `Bug_Report.xlsx`                                        | List of reported bugs with severity and steps to reproduce. |
+| `SeleniumTest (1).zip`                                   | Automated test scripts created using Selenium.              |
+| `Final Project Presentation - PrestaShop Testing-4.pptx` | Summary presentation illustrating project flow and results. |
+| `Team_Info.xlsx`                                         | Contact and role information of all team members.           |
+| `summary.csv`                                            | Summary table tracking testing outcomes and progress.       |
+
 
 ## ✅ Project Goals
 
