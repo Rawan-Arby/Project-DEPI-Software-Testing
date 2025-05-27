@@ -35,8 +35,8 @@ This repository contains the final project for a software testing course. The pr
 ## 👨‍👩‍👧‍👦 Team Members
 
 1. Shahd Ashraf        2. Habiba Saad  
-3. Al Shaimaa Ashraf    4. Fatma Zaher  
-5. Shahd Ghandi       6. Rawan Arby
+3. Al Shaimaa Ashraf   4. Fatma Zaher  
+5. Shahd Ghandi        6. Rawan Arby
 
 ## 🚀 How to Run the Tests
 
